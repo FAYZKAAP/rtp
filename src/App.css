@@ -1,0 +1,93 @@
+.box {
+  width: 426px;
+  background-color: #2C2F35;
+  border-radius: 50px;
+  text-align: center;
+}
+
+.body {
+  background-color: black;
+}
+.ota {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 30px 0;
+}
+
+h2 {
+font-weight: 600;
+font-style: Semibold;
+font-size: 16px;
+line-height: 110.00000000000001%;
+color: white;
+padding-top: 20px;
+}
+.card {
+  width: 117px;
+  height: 50px;
+  background-color: #32363C;
+  border-radius: 10px;
+  padding: 5px 2px;
+}
+  
+
+p {
+  color: #F79841;
+}
+.text {
+  display: flex;
+
+}
+h5 {
+  text-align: center;
+  color: white;
+}
+h1 {
+font-weight: 700;
+font-style: Bold;
+font-size: 40px;
+line-height: 110.00000000000001%;
+letter-spacing: -2%;
+color: white;
+}
+.img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button {
+  padding: 14px 70px;
+  border-radius: 50%;
+  background: linear-gradient(180deg, #35389E 0%, #1C2848 98%);
+  border: 10px solid blue;
+}
+.box2 {
+  color: white;
+  display: flex;
+  align-items: center;
+    display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+}
+.p {
+display: flex;
+align-items: center;
+
+}
+.ota2 {
+  width: 362px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 10px;
+  
+}
+.card2 {
+background-color: #21242980;
+border-radius: 20px;
+width: 70px;
+height: 65px;
+padding: 5px;
+}
